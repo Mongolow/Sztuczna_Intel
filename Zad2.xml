@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Aplikacje>
+    <Aplikacja id="1">
+        <Nazwa>ChatGPT</Nazwa>
+        <RokZałożenia>2022</RokZałożenia>
+        <Dystrybutor>OpenAI</Dystrybutor>
+        <WersjaPremiumCena>100 zł</WersjaPremiumCena>    
+    
+    
+    
+    </Aplikacja>
+
+
+    <Aplikacja id="2">
+        <Nazwa>Gemini</Nazwa>
+        <RokZałożenia>2023</RokZałożenia>
+        <Dystrybutor>Google</Dystrybutor>
+        <WersjaPremiumCena>120 zł</WersjaPremiumCena>
+
+        </Aplikacja>
+
+
+
+
+
+
+    <Aplikacja id="3">
+        <Nazwa>Copilot</Nazwa>
+        <RokZałożenia>2021</RokZałożenia>
+        <Dystrybutor>Microsoft</Dystrybutor>
+        <WersjaPremiumCena>Dostępne wraz z Microsoft 365</WersjaPremiumCena>
+
+    </Aplikacja>
+
+
+
+</Aplikacje>
