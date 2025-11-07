@@ -38,3 +38,20 @@ ul {
 a:hover {
     background: lightblue;
 }
+
+.authors-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.authors-list {
+    border: 1px black solid;
+    width: max-content;
+    padding-right: 15px;
+}
+li p{
+    font-weight: bold;
+}
