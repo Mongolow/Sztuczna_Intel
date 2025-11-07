@@ -55,3 +55,53 @@ a:hover {
 li p{
     font-weight: bold;
 }
+
+.form-title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1cm;
+}
+
+.edit {
+    background: lightblue;
+}
+
+button {
+    background: orange;
+}
+
+.buttons {
+    display: flex;
+    gap: 1cm;
+}
+
+.images-title {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border: 1px black solid;
+}
+
+.images {
+    display: flex;
+    gap: 1cm;
+}
+
+.data-title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1cm;
+}
+
+td, th {
+    border: 1px black solid;
+}
+
+th {
+    background: black;
+    color: white;
+}
