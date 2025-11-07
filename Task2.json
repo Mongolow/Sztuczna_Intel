@@ -1,0 +1,37 @@
+[
+    {
+        "Aplikacja":"ChatGPT",
+        "RokZalozenia":2022,
+        "WersjaPremium": true,
+        "Dystrybutor": "OpenAI"
+    },
+    
+    {
+        "Aplikacja":"Gemini",
+        "RokZalozenia":2023,
+        "WersjaPremium": true,
+        "Dystrybutor": "Google"
+
+
+    },
+
+
+    {
+        "Aplikacja":"Copilot",
+        "RokZalozenia":2021,
+        "WersjaPremium": false,
+        "Dystrybutor": "Microsoft"
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+]
