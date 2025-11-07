@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 1cm;
+    background: #f3f3f3;
+    margin: 0;
+}
+
+.home-title {
+    display: flex;
+    justify-content: center;
+    color: green;
+}
+
+.home-text {
+    width: 100%;
+    text-align: justify;
+    font-style: italic;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.columns {
+    display: flex;
+}
+
+@media (max-width: 425px) {
+    .columns {
+        flex-direction: column;
+    }
+}
+
+a:hover {
+    background: lightblue;
+}
